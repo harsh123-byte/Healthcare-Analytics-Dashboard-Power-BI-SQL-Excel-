@@ -1,0 +1,2 @@
+# Healthcare-Analytics-Dashboard-Power-BI-SQL-Excel-
+A Power BI project analyzing hospital data (patients, diagnoses, doctors, beds, billing, insurance, and feedback). The dashboard provides insights into patient admissions, disease trends, doctor performance, bed utilization, revenue, and patient satisfaction. Data was prepared in Excel and analyzed using SQL + Power BI for interactive reporting.
