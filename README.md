@@ -89,15 +89,16 @@ Dashboard Background File ( 📄DashboardBG.webp) open it in Power BI Desktop by
 
 
 
-3. SQL ( Structured Query Language)
+  
+   3. SQL ( Structured Query Language)
 
- -Performed analysis on hospital records to evaluate doctor performance, patient distribution, and top medical cases/tests.
+     -Performed analysis on hospital records to evaluate doctor performance, patient distribution, and top medical cases/tests.
  
  
- -Calculated billing trends, out-of-pocket expenses, revenue contribution, and patient feedback for insights into hospital operations.
+    -Calculated billing trends, out-of-pocket expenses, revenue contribution, and patient feedback for insights into hospital operations.
  
 
- - SQLScript (📄HealthcareSQLscript.sql) open this Script File in any RDBMS ( like MYSQL )
+   - SQLScript (📄HealthcareSQLscript.sql) open this Script File in any RDBMS ( like MYSQL )
 
      
 
