@@ -4,8 +4,8 @@ A Healthcare Data Analyst Project with the combination of (sql+Excel+Power BI)
 
 1. EXCEL
 
-       Cleaned and organized healthcare data in Excel to prepare patient, doctor, and billing information for analysis in Power BI.
-       A Dataset of 7000+ rows and 11 Columns
+    Cleaned and organized healthcare data in Excel to prepare patient, doctor, and billing information for analysis in Power BI.
+    A Dataset of 7000+ rows and 11 Columns
 
   Columns Name -
 
@@ -90,17 +90,7 @@ Dashboard Background File ( 📄DashboardBG.webp) open it in Power BI Desktop by
 
 
 
-  
- 
-  
-  
-
-  
-  
-  
-  
-  
-  5. SQL ( Structured Query Language)
+    3. SQL ( Structured Query Language)
 
       -Performed analysis on hospital records to evaluate doctor performance, patient distribution, and top medical cases/tests.
       -Calculated billing trends, out-of-pocket expenses, revenue contribution, and patient feedback for insights into hospital operations.
